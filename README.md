@@ -48,6 +48,7 @@
 
 ## Usage
 
+-   **Admin Access** Email: test@test.com Password: test.com
 -   **Login with valid credentials** to access the system.
 -   **Admins can perform administrative tasks**, including booking management, cabin creation, and settings modification.
 -   **Check-in and Check-out functionality** is available to manage guest stays.
