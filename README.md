@@ -15,6 +15,9 @@
     -   Manage user access.
     -   Check-in and check-out guests.
 -   **Secure Access**: The application is private and restricted to hotel employees only.
+-   **Filter**: Authenticated user can filter the bookings based on displayed options.
+-   **Sorting**: Authenticated user can sort the data based on displayed options.
+-   **Dashboard**: A beautifull dashboard to displays the today activity, and charts to display stays of guests and sales made by the hotel.
 
 ## Technology Stack
 
